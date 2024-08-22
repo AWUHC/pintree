@@ -6,6 +6,13 @@
     "children": [
       {
         "type": "link",
+        "addDate": 1723877583563,
+        "title": "Pintree",
+        "icon": "https://logo.clearbit.com/awuhc.github.io",
+        "url": "https://awuhc.github.io/pintree/"
+      },
+      {
+        "type": "link",
         "addDate": 1679745662255,
         "title": "Overleaf",
         "icon": "https://logo.clearbit.com/cn.overleaf.com",
@@ -555,6 +562,48 @@
         "title": "txyz.ai - Integrate all paths to knowledge",
         "icon": "https://logo.clearbit.com/app.txyz.ai",
         "url": "https://app.txyz.ai/?forceLogin=1"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884380566,
+        "title": "崔维成博士",
+        "icon": "https://logo.clearbit.com/www.westlake.edu.cn",
+        "url": "https://www.westlake.edu.cn/faculty/weicheng-cui.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884382861,
+        "title": "范迪夏博士",
+        "icon": "https://logo.clearbit.com/www.westlake.edu.cn",
+        "url": "https://www.westlake.edu.cn/faculty/dixia-fan.html"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884818249,
+        "title": "清华大学深圳国际研究生院",
+        "icon": "https://logo.clearbit.com/www.sigs.tsinghua.edu.cn",
+        "url": "https://www.sigs.tsinghua.edu.cn/weh/main.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884877185,
+        "title": "清华大学深圳国际研究生院",
+        "icon": "https://logo.clearbit.com/www.sigs.tsinghua.edu.cn",
+        "url": "https://www.sigs.tsinghua.edu.cn/csx/main.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884920776,
+        "title": "清华大学深圳国际研究生院",
+        "icon": "https://logo.clearbit.com/www.sigs.tsinghua.edu.cn",
+        "url": "https://www.sigs.tsinghua.edu.cn/jl/main.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1723884933167,
+        "title": "清华大学深圳国际研究生院",
+        "icon": "https://logo.clearbit.com/www.sigs.tsinghua.edu.cn",
+        "url": "https://www.sigs.tsinghua.edu.cn/lr/main.htm"
       }
     ]
   },
