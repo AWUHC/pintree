@@ -604,6 +604,20 @@
         "title": "清华大学深圳国际研究生院",
         "icon": "https://logo.clearbit.com/www.sigs.tsinghua.edu.cn",
         "url": "https://www.sigs.tsinghua.edu.cn/lr/main.htm"
+      },
+      {
+        "type": "link",
+        "addDate": 1724487440399,
+        "title": "宝贝云",
+        "icon": "https://logo.clearbit.com/bby010.com",
+        "url": "https://bby010.com/?tm=1724486699085#/dashboard"
+      },
+      {
+        "type": "link",
+        "addDate": 1725093415357,
+        "title": "哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+        "icon": "https://logo.clearbit.com/www.bilibili.com",
+        "url": "https://www.bilibili.com/?spm_id_from=333.1365.0.0"
       }
     ]
   },
